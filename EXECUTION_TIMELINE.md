@@ -1,4 +1,4 @@
-# Execution Timeline — PS / PL Interaction
+# Execution Timeline - PS / PL Interaction
 
 This document traces a single matmul run from the processing system (PS) side,
 showing how the PS driver interacts with the TPU IP in the programmable logic
